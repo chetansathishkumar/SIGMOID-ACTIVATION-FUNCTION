@@ -31,8 +31,8 @@ The limitations of sigmoid function are :
 ```
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by: Dineshkumar S
-RegisterNumber:  212220230012
+Developed by: Pabbarthi chetan sathish kumar
+RegisterNumber:  212220230033
 */
 ```
 ```python
